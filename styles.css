@@ -1,0 +1,52 @@
+/*You can change the hexidecimal number to change the colors on your nonlinear story.
+You can also change the font family, font sizes, font styles, or alignments*/
+
+/*overall style*/
+body {
+	background: #A66732; /*to change, look up color codes on Kuler or photoshop*/
+	font-family: Garamond; /*to change, look up other font families*/
+	width: 60%;
+	margin: 2 auto;
+}
+/*heading style*/
+h1 {
+	font-family: Courier New;
+	color: #0C121E;
+	text-align: left;
+	font-size: 42px; /*you can change all font sizes by changing the pixels*/
+	font-weight: bold;
+}
+/*image style*/
+img {
+	width:600px; /*change width of image*/
+    display: block;
+    margin-left: left;
+    margin-right: auto;
+    border:0px solid #FF0078;
+}
+/*paragraph style*/
+p {
+	font-size: 25px;
+	text-align: left; /*may change this to left, right or center*/
+	width: 700px; /*changes width of paragraphs*/
+	color: #0C121E; /*change this to the hexidecimal number for the paragraph text color you prefer*/
+	padding: 0px 0px;
+}
+/*unvisited link style*/
+a {
+	color: #FFFFFF;
+}
+/*hovered over link style*/
+a:hover {
+	color: #FFFFFF;
+}
+/*visited link style*/
+a:visited {
+	color: #FFFFFF;
+}
+/*list item style*/
+li {
+	font-size: 20px;
+	font-style:;
+	color: #FFFFFF;
+	}
